@@ -44,8 +44,6 @@ const ImageModal = () => {
     setBigImage('');
   }
 
-  console.log('Status: ', isOpen);
-
   return (
     <>
       <Modal
