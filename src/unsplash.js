@@ -1,6 +1,8 @@
 import axios from 'axios';
 
-const YOUR_ACCESS_KEY = import.meta.env.VITE_API_KEY;
+// const YOUR_ACCESS_KEY = import.meta.env.VITE_API_KEY;
+
+const YOUR_ACCESS_KEY = 'ZO62Fuy9rneRqaC9P6XwXKnjRN5OBu08skmS-uM-EYs';
 
 axios.defaults.baseURL = 'https://api.unsplash.com/search';
 
